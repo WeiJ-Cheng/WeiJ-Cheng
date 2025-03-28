@@ -37,6 +37,27 @@
 - **AWS**: AWS Generative AI: Business Skills
 ---
 
+### 📁 Portfolio｜作品集
+
+#### 🍼 Baby Names Trend Visualizer
+
+Visualizes the historical popularity trends of baby names in the U.S. from 1900 to 2020 using a Python Tkinter GUI.  
+It allows users to search for names and display them as colored trend lines with real-time labels.
+
+- 📊 Technologies: `Python`, `Tkinter`, `Canvas`, `Dictionary`, `Text File Processing`
+- 📂 Dataset: Official U.S. baby name rankings (mock format)
+- 🧠 Highlights: Multi-name support, color-coded lines, ranking labels, missing data handling
+
+👉 [View Project Repo](https://github.com/WeiJ-Cheng/baby-names-visualizer)
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/WeiJ-Cheng/baby-names-visualizer/main/data/Pic1.png" width="45%" />
+  <img src="https://raw.githubusercontent.com/WeiJ-Cheng/baby-names-visualizer/main/data/Pic2.png" width="45%" />
+</p>
+
+---
+
+
 ### 💻 Experience
 
 #### **Project Assistant/Data Analyst**
