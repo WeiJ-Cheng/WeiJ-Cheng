@@ -51,7 +51,6 @@
 
 <p align="left"> <img src="https://raw.githubusercontent.com/WeiJ-Cheng/baby-names-visualizer/main/data/Pic1.png" width="45%" /> <img src="https://raw.githubusercontent.com/WeiJ-Cheng/baby-names-visualizer/main/data/Pic2.png" width="45%" /> </p>
 👉 [View Project on GitHub](https://github.com/WeiJ-Cheng/baby-names-visualizer)  
-🔗 https://github.com/WeiJ-Cheng/baby-names-visualizer
 
 --
 
@@ -71,7 +70,6 @@
 📈 效益：減少人工作業時間、提升資料準確度與即時分析能力
 
 👉 [View Project on GitHub](https://github.com/WeiJ-Cheng/Data-Processing-and-Analysis-Optimization)  
-🔗 https://github.com/WeiJ-Cheng/baby-names-visualizer](https://github.com/WeiJ-Cheng/Data-Processing-and-Analysis-Optimization)
 
 ---
 
