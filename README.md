@@ -50,7 +50,28 @@
 🖼️ 畫面示意圖：
 
 <p align="left"> <img src="https://raw.githubusercontent.com/WeiJ-Cheng/baby-names-visualizer/main/data/Pic1.png" width="45%" /> <img src="https://raw.githubusercontent.com/WeiJ-Cheng/baby-names-visualizer/main/data/Pic2.png" width="45%" /> </p>
-👉 查看專案 GitHub
+👉 [View Project on GitHub](https://github.com/WeiJ-Cheng/baby-names-visualizer)  
+🔗 https://github.com/WeiJ-Cheng/baby-names-visualizer
+
+--
+
+🧹 Excel 資料處理與分析自動化
+使用 Python 快速整合多個 Excel 工作表，自動完成資料清洗、合併、重分類與報表生成，提升作業效率與準確率。
+
+🛠️ 技術：Python、pandas、openpyxl、Excel
+
+⚙️ 功能亮點：
+
+自動清洗與重組銷售/庫存資料
+
+優化報表製作流程
+
+精準計算進出貨與預測庫存
+
+📈 效益：減少人工作業時間、提升資料準確度與即時分析能力
+
+👉 [View Project on GitHub](https://github.com/WeiJ-Cheng/Data-Processing-and-Analysis-Optimization)  
+🔗 https://github.com/WeiJ-Cheng/baby-names-visualizer](https://github.com/WeiJ-Cheng/Data-Processing-and-Analysis-Optimization)
 
 ---
 
