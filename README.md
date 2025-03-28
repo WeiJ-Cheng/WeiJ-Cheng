@@ -39,7 +39,7 @@
 
 ### 📁 Portfolio｜作品集
 
-🍼 Baby Names Trend Visualizer（寶寶名字趨勢視覺化）
+#### 🍼 Baby Names Trend Visualizer（寶寶名字趨勢視覺化）
 使用 Python 與 Tkinter 打造的 GUI 應用程式，視覺化呈現美國寶寶名字在 1900~2020 年間的排名趨勢。
 使用者可輸入一或多個名字，即時顯示彩色趨勢線及對應排名。
 
@@ -56,7 +56,7 @@
 
 ---
 
-🧹 Excel 資料處理與分析自動化
+#### 🧹 Excel 資料處理與分析自動化
 使用 Python 快速整合多個 Excel 工作表，自動完成資料清洗、合併、重分類與報表生成，提升作業效率與準確率。
 
 🛠️ 技術：Python、pandas、openpyxl、Excel
