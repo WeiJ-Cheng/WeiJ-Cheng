@@ -39,21 +39,18 @@
 
 ### 📁 Portfolio｜作品集
 
-#### 🍼 Baby Names Trend Visualizer
+🍼 Baby Names Trend Visualizer（寶寶名字趨勢視覺化）
+使用 Python 與 Tkinter 打造的 GUI 應用程式，視覺化呈現美國寶寶名字在 1900~2020 年間的排名趨勢。
+使用者可輸入一或多個名字，即時顯示彩色趨勢線及對應排名。
 
-Visualizes the historical popularity trends of baby names in the U.S. from 1900 to 2020 using a Python Tkinter GUI.  
-It allows users to search for names and display them as colored trend lines with real-time labels.
+📊 技術：Python、Tkinter、Canvas、文字檔解析、字典資料結構
 
-- 📊 Technologies: `Python`, `Tkinter`, `Canvas`, `Dictionary`, `Text File Processing`
-- 📂 Dataset: Official U.S. baby name rankings (mock format)
-- 🧠 Highlights: Multi-name support, color-coded lines, ranking labels, missing data handling
+🌈 特點：支援多名字顯示、自動處理缺漏資料、動態標籤
 
-👉 [View Project Repo](https://github.com/WeiJ-Cheng/baby-names-visualizer)
+🖼️ 畫面示意圖：
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/WeiJ-Cheng/baby-names-visualizer/main/data/Pic1.png" width="45%" />
-  <img src="https://raw.githubusercontent.com/WeiJ-Cheng/baby-names-visualizer/main/data/Pic2.png" width="45%" />
-</p>
+<p align="left"> <img src="https://raw.githubusercontent.com/WeiJ-Cheng/baby-names-visualizer/main/data/Pic1.png" width="45%" /> <img src="https://raw.githubusercontent.com/WeiJ-Cheng/baby-names-visualizer/main/data/Pic2.png" width="45%" /> </p>
+👉 查看專案 GitHub
 
 ---
 
