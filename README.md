@@ -51,6 +51,8 @@
 
 <p align="left"> <img src="https://raw.githubusercontent.com/WeiJ-Cheng/baby-names-visualizer/main/data/Pic1.png" width="45%" /> <img src="https://raw.githubusercontent.com/WeiJ-Cheng/baby-names-visualizer/main/data/Pic2.png" width="45%" /> </p>
 👉 [View Project on GitHub](https://github.com/WeiJ-Cheng/baby-names-visualizer)  
+👉 [查看專案 GitHub]([https://github.com/WeiJ-Cheng/your-repo-name](https://github.com/WeiJ-Cheng/baby-names-visualizer))
+
 
 --
 
