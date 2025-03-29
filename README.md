@@ -22,7 +22,7 @@
 
 ---
 
-### ⚙️ Skills & Tools
+### ⚙️ Skills & Tools | 資料清理、資料視覺化、網路爬蟲 🧹📊🕷️
 
 #### **Expertise**
 - **Programming Language**: Python, SQL, R
@@ -36,8 +36,6 @@
 #### **Certificate**
 - **AWS**: AWS Generative AI: Business Skills
 
-#### **專長** 
--  資料清理、資料視覺化、網路爬蟲 🧹📊🕷️
 ---
 
 ### 📁 Portfolio｜作品集
